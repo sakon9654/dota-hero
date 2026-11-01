@@ -5,12 +5,12 @@ approved_date: 2026-11-01
 approval_scope: ITEM_SELECTION_ONLY
 status: APPROVED_FOR_DESIGN
 candidate_count: 20
-abilities_approved_by_this_file: 0
+core_abilities_approved_as_of_2026_11_02: 20
 ---
 
 # Combined Shop Item Registry v1.0
 
-User approved **20 combined shop items as ability design candidates only** on 2026-11-01. This is NOT approval of their power mechanics, activation conditions, evolution effects, or balance rules.
+User approved **20 combined shop items as ability design candidates** on 2026-11-01. As of 2026-11-02, the user has **separately approved the core abilities of all 20 items**. This registry's item-selection approval is distinct from the ability approval in each individual file; no unconfirmed evolution lines, numeric rules or unlock conditions are approved by this registry.
 
 ## Approved for design
 
@@ -37,6 +37,10 @@ User approved **20 combined shop items as ability design candidates only** on 20
 | MIX-019 | Silver Edge | APPROVED_FOR_DESIGN | FUTURE_UPGRADE_LINEAGE: Shadow Blade not yet approved as a base power; review before creating independent lineage |
 | MIX-020 | Battle Fury | APPROVED_FOR_DESIGN | POTENTIAL_SAME_LINEAGE: Quelling Blade (BASE-004); contains Quelling Blade in recipe; do not create a separate lineage until approved |
 
+## Core ability approval tracker (2026-11-02)
+
+All 20 MIX-001 through MIX-020 core ability descriptions are APPROVED in individual files under `canon/power_system/abilities/`. This includes BKB, Nullifier and Divine Rapier, approved in earlier reviews, and the remaining 17 approved together in Batch 03. Evolution-lineage classification remains pending wherever flagged.
+
 ## Lineage and duplication checks
 
 1. **Battle Fury / Quelling Blade:** Battle Fury builds from Quelling Blade in Dota 2. Quelling Blade (BASE-004) already has an approved core concept. Flag MIX-020 as a **candidate evolution**, not an automatic new unique power. Final lineage classification requires user approval.
@@ -52,8 +56,8 @@ User approved **20 combined shop items as ability design candidates only** on 20
 - Upon a holder's death, each lineage randomly reappears in another person, subject to separately approved reincarnation rules.
 - An upgrade within the same lineage is **not** an additional independently held unique power.
 - Exact ability performance, quantity, endurance, re-use and technique depend on an individual holder's mastery and timeline. No universal arbitrary fixed cooldowns.
-- No ability design, manifestation mechanics, counters, evolution requirements, or artifact specifications may be promoted to canon merely because an item appears here.
+- Item selection alone never constitutes ability approval; the separate individual ability files now contain the user-approved core mechanics. Unapproved evolution requirements, unspecified numeric mechanics and artifact specifications must not be promoted to canon.
 
 ## Next review
 
-Design and approve new power mechanics later; resolve flagged overlap classifications before finalizing the master lineage count.
+Resolve flagged overlap classifications and detailed holder-specific mechanics before finalizing the master lineage count. The 20 core ability concepts have already been approved.
