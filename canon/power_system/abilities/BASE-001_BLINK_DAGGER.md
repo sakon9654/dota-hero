@@ -2,19 +2,19 @@
 ability_id: BASE-001
 item: Blink Dagger
 item_selection_status: APPROVED_FOR_DESIGN
-ability_status: REVISION_REQUIRED
+ability_status: APPROVED
 review_date: 2026-11-01
 source: user_feedback
 ---
 
 # Blink Dagger — ก้าวตามคมมีด
 
-> **Draft only. Ability NOT approved.** This revision captures user feedback for the next review.
+> **Approved core ability and individual-dependent mastery.** Undecided subrules and evolution branches remain pending.
 
 ## Core concept retained
 The wielder throws a dagger, then teleports to a position linked to that dagger. The power is a personal manifestation, not an ordinary item power.
 
-## Requested corrections (confirmed direction)
+## Approved mechanics and mastery principles
 - Do **not** impose a universal maximum of one created dagger.
 - Dagger quantity and control depend on the individual's training, ability and mastery.
 - A weak or untrained wielder may be **forced to blink immediately when the thrown dagger hits something**.
@@ -31,7 +31,7 @@ The wielder throws a dagger, then teleports to a position linked to that dagger.
 
 These are examples, not obligatory stages or universal numeric thresholds.
 
-## Still pending approval
+## Undecided implementation details (not yet canon)
 - How the dagger is manifested or obtained; whether different users may differ.
 - Individual range, number of daggers, their duration and recharge.
 - Whether contact with a surface, impact or travel is necessary for strong users.
@@ -42,4 +42,4 @@ These are examples, not obligatory stages or universal numeric thresholds.
 Story writers must consult the **current holder's** ability profile, mastered techniques and timeline before using a Blink ability. Do not grant an advanced user mechanic to an untrained owner without an earned event.
 
 ## Decision
-**BLINK ABILITY: REVISION_REQUIRED — not canonized.**
+**BLINK ABILITY: APPROVED — core mechanics and mastery scaling.**
