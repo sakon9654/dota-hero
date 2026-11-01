@@ -2,13 +2,13 @@
 ability_id: MIX-015
 item: Divine Rapier
 item_selection_status: APPROVED_FOR_DESIGN
-ability_status: REVISION_REQUIRED
+ability_status: APPROVED
 review_date: 2026-11-01
 ---
 # Divine Rapier — ศัสตราเทวะ
 
 ## Decision
-**USER-CONFIRMED DESIGN DIRECTION; FULL ABILITY PENDING APPROVAL.**
+**APPROVED:** Core high-destructive-power concept, daily use allowances, lifespan penalty for exceeding the holder's allowance, and synergy with Hero Artifacts. Unspecified implementation parameters remain open.
 
 ## Core design direction from user
 - Divine Rapier is an **exceptionally destructive high-tier personal power**, extremely difficult to withstand.
@@ -26,4 +26,4 @@ review_date: 2026-11-01
 - Keep holder-specific mastery records and actual activations in encounter/timeline logs; the normal one-use allowance and possible trained two-use allowance, plus the lifespan cost of exceeding the allowance, are explicit rules.
 
 ## Status
-REVISION_REQUIRED: lifespan-cost rule confirmed; full manifestation awaits approval. Never add fatigue or bodily backlash for ordinary permitted uses without user approval.
+APPROVED: User approved Divine Rapier. Never add fatigue or bodily backlash for ordinary permitted uses without user approval. Exact lifespan consumption and per-artifact combinations remain character/artifact design details.
